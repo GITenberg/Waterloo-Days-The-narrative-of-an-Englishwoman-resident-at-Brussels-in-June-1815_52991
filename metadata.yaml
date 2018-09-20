@@ -1,5 +1,5 @@
 _repo: Waterloo-Days-The-narrative-of-an-Englishwoman-resident-at-Brussels-in-June-1815_52991
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   commentator:
     agent_name: Bell, Edward
@@ -7,6 +7,9 @@ contributor:
     deathdate: 1926
     gutenberg_agent_id: '45330'
     url: http://www.gutenberg.org/2009/agents/45330
+covers:
+- cover_type: archival
+  image_path: 52991-h/images/cover.jpg
 creator:
   author:
     agent_name: Eaton, Charlotte A. (Charlotte Anne)
@@ -16,6 +19,8 @@ creator:
     gutenberg_agent_id: '47152'
     url: http://www.gutenberg.org/2009/agents/47152
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52991#Waterloo-Days-The-narrative-of-an-Englishwoman-resident-at-Brussels-in-June-1815
 gutenberg_issued: '2016-09-05'
 gutenberg_type: Text
 identifiers:
